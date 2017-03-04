@@ -18,6 +18,8 @@ public class MainActivity extends AppCompatActivity {
     private void testup_GITHUB()
     {
         int i =1+1;
+        i = 1+3;
+        i = 3+2;
     }
 
     }
